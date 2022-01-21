@@ -15,7 +15,7 @@ public class Exercise3 {
             System.out.println("Press 2 for Subtraction ");
             System.out.println("Press 3 for Multiplication ");
             System.out.println("Press 4 for Division ");
-            int choice = sc.nextInt();
+                int choice = sc.nextInt();
 
         switch (choice){
             case 1:
